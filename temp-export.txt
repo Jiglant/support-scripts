@@ -1,11 +1,8 @@
 UPGGRADE.php
-controllers/production.php
-controllers/stock.php
-db-schema 22-Oct-2021.sql
-models/lots_details.php
-models/stock.php
-views/production_list.tpl.php
-views/production_new.tpl.php
-views/slaughtery_edit.tpl.php
-views/slaughtery_new.tpl.php
-views/stock_list.tpl.php
+controllers/purchase.php
+controllers/reports.php
+models/lots_raw.php
+models/slaughtery_log.php
+views/purchase_raw_list.tpl.php
+views/purchase_raw_report.tpl.php
+views/slaughter_report.tpl.php
